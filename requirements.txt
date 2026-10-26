@@ -1,0 +1,7 @@
+# Install a CPU or CUDA build of torch==2.6.0 first (README.md).
+torch==2.6.0
+numpy==1.26.4
+opencv-python-headless==4.10.0.84
+einops==0.8.1
+yacs==0.1.8
+PyYAML==6.0.3
